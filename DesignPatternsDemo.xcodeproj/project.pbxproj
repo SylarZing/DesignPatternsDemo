@@ -17,6 +17,21 @@
 		2FFDDD0F1F4DABDC002406D0 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD0D1F4DABDC002406D0 /* MainViewController.m */; };
 		2FFDDD101F4DABDC002406D0 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD0D1F4DABDC002406D0 /* MainViewController.m */; };
 		2FFDDD141F4DB2AD002406D0 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FFDDD131F4DB2AD002406D0 /* Default-568h@2x.png */; };
+		2FFDDD181F5D8BFB002406D0 /* SimpleFactoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD171F5D8BFB002406D0 /* SimpleFactoryViewController.m */; };
+		2FFDDD191F5D8BFB002406D0 /* SimpleFactoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD171F5D8BFB002406D0 /* SimpleFactoryViewController.m */; };
+		2FFDDD1A1F5D8BFB002406D0 /* SimpleFactoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD171F5D8BFB002406D0 /* SimpleFactoryViewController.m */; };
+		2FFDDD231F5D8C79002406D0 /* SFCalculation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD221F5D8C79002406D0 /* SFCalculation.m */; };
+		2FFDDD241F5D8C79002406D0 /* SFCalculation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD221F5D8C79002406D0 /* SFCalculation.m */; };
+		2FFDDD251F5D8C79002406D0 /* SFCalculation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD221F5D8C79002406D0 /* SFCalculation.m */; };
+		2FFDDD281F5D9043002406D0 /* CalFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD271F5D9043002406D0 /* CalFactory.m */; };
+		2FFDDD291F5D9043002406D0 /* CalFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD271F5D9043002406D0 /* CalFactory.m */; };
+		2FFDDD2A1F5D9043002406D0 /* CalFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD271F5D9043002406D0 /* CalFactory.m */; };
+		2FFDDD2D1F5D9713002406D0 /* SFAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD2C1F5D9713002406D0 /* SFAdd.m */; };
+		2FFDDD2E1F5D9713002406D0 /* SFAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD2C1F5D9713002406D0 /* SFAdd.m */; };
+		2FFDDD2F1F5D9713002406D0 /* SFAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD2C1F5D9713002406D0 /* SFAdd.m */; };
+		2FFDDD321F5D9725002406D0 /* SFSub.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD311F5D9725002406D0 /* SFSub.m */; };
+		2FFDDD331F5D9725002406D0 /* SFSub.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD311F5D9725002406D0 /* SFSub.m */; };
+		2FFDDD341F5D9725002406D0 /* SFSub.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FFDDD311F5D9725002406D0 /* SFSub.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +70,16 @@
 		2FFDDD111F4DB07F002406D0 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
 		2FFDDD121F4DB225002406D0 /* AppPrefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppPrefix.pch; sourceTree = "<group>"; };
 		2FFDDD131F4DB2AD002406D0 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		2FFDDD161F5D8BFB002406D0 /* SimpleFactoryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleFactoryViewController.h; sourceTree = "<group>"; };
+		2FFDDD171F5D8BFB002406D0 /* SimpleFactoryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleFactoryViewController.m; sourceTree = "<group>"; };
+		2FFDDD211F5D8C79002406D0 /* SFCalculation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SFCalculation.h; sourceTree = "<group>"; };
+		2FFDDD221F5D8C79002406D0 /* SFCalculation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SFCalculation.m; sourceTree = "<group>"; };
+		2FFDDD261F5D9043002406D0 /* CalFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalFactory.h; sourceTree = "<group>"; };
+		2FFDDD271F5D9043002406D0 /* CalFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalFactory.m; sourceTree = "<group>"; };
+		2FFDDD2B1F5D9713002406D0 /* SFAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SFAdd.h; sourceTree = "<group>"; };
+		2FFDDD2C1F5D9713002406D0 /* SFAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SFAdd.m; sourceTree = "<group>"; };
+		2FFDDD301F5D9725002406D0 /* SFSub.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SFSub.h; sourceTree = "<group>"; };
+		2FFDDD311F5D9725002406D0 /* SFSub.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SFSub.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +131,7 @@
 		2FFDDCD51F4DAB14002406D0 /* DesignPatternsDemo */ = {
 			isa = PBXGroup;
 			children = (
+				2FFDDD151F5D8BB0002406D0 /* SimpleFactory */,
 				2FFDDCD91F4DAB14002406D0 /* AppDelegate.h */,
 				2FFDDCDA1F4DAB14002406D0 /* AppDelegate.m */,
 				2FFDDD0C1F4DABDC002406D0 /* MainViewController.h */,
@@ -144,6 +170,31 @@
 				2FFDDD001F4DAB14002406D0 /* Info.plist */,
 			);
 			path = DesignPatternsDemoUITests;
+			sourceTree = "<group>";
+		};
+		2FFDDD151F5D8BB0002406D0 /* SimpleFactory */ = {
+			isa = PBXGroup;
+			children = (
+				2FFDDD1B1F5D8C04002406D0 /* SimpleFactoryClass */,
+				2FFDDD161F5D8BFB002406D0 /* SimpleFactoryViewController.h */,
+				2FFDDD171F5D8BFB002406D0 /* SimpleFactoryViewController.m */,
+			);
+			path = SimpleFactory;
+			sourceTree = "<group>";
+		};
+		2FFDDD1B1F5D8C04002406D0 /* SimpleFactoryClass */ = {
+			isa = PBXGroup;
+			children = (
+				2FFDDD211F5D8C79002406D0 /* SFCalculation.h */,
+				2FFDDD221F5D8C79002406D0 /* SFCalculation.m */,
+				2FFDDD2B1F5D9713002406D0 /* SFAdd.h */,
+				2FFDDD2C1F5D9713002406D0 /* SFAdd.m */,
+				2FFDDD301F5D9725002406D0 /* SFSub.h */,
+				2FFDDD311F5D9725002406D0 /* SFSub.m */,
+				2FFDDD261F5D9043002406D0 /* CalFactory.h */,
+				2FFDDD271F5D9043002406D0 /* CalFactory.m */,
+			);
+			path = SimpleFactoryClass;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -281,10 +332,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FFDDD181F5D8BFB002406D0 /* SimpleFactoryViewController.m in Sources */,
 				2FFDDCDB1F4DAB14002406D0 /* AppDelegate.m in Sources */,
+				2FFDDD231F5D8C79002406D0 /* SFCalculation.m in Sources */,
 				2FFDDCD81F4DAB14002406D0 /* main.m in Sources */,
+				2FFDDD2D1F5D9713002406D0 /* SFAdd.m in Sources */,
 				2FFDDD0E1F4DABDC002406D0 /* MainViewController.m in Sources */,
+				2FFDDD321F5D9725002406D0 /* SFSub.m in Sources */,
 				2FFDDCE41F4DAB14002406D0 /* DesignPatternsDemo.xcdatamodeld in Sources */,
+				2FFDDD281F5D9043002406D0 /* CalFactory.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,8 +348,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FFDDD2E1F5D9713002406D0 /* SFAdd.m in Sources */,
 				2FFDDCF41F4DAB14002406D0 /* DesignPatternsDemoTests.m in Sources */,
 				2FFDDD0F1F4DABDC002406D0 /* MainViewController.m in Sources */,
+				2FFDDD291F5D9043002406D0 /* CalFactory.m in Sources */,
+				2FFDDD241F5D8C79002406D0 /* SFCalculation.m in Sources */,
+				2FFDDD191F5D8BFB002406D0 /* SimpleFactoryViewController.m in Sources */,
+				2FFDDD331F5D9725002406D0 /* SFSub.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,8 +362,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FFDDD2F1F5D9713002406D0 /* SFAdd.m in Sources */,
 				2FFDDCFF1F4DAB14002406D0 /* DesignPatternsDemoUITests.m in Sources */,
 				2FFDDD101F4DABDC002406D0 /* MainViewController.m in Sources */,
+				2FFDDD2A1F5D9043002406D0 /* CalFactory.m in Sources */,
+				2FFDDD251F5D8C79002406D0 /* SFCalculation.m in Sources */,
+				2FFDDD1A1F5D8BFB002406D0 /* SimpleFactoryViewController.m in Sources */,
+				2FFDDD341F5D9725002406D0 /* SFSub.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -509,6 +575,7 @@
 				2FFDDD051F4DAB14002406D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2FFDDD061F4DAB14002406D0 /* Build configuration list for PBXNativeTarget "DesignPatternsDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +584,7 @@
 				2FFDDD081F4DAB14002406D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2FFDDD091F4DAB14002406D0 /* Build configuration list for PBXNativeTarget "DesignPatternsDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +593,7 @@
 				2FFDDD0B1F4DAB14002406D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

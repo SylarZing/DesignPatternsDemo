@@ -8,6 +8,8 @@
 
 #import "MainViewController.h"
 
+#import "SimpleFactoryViewController.h"
+
 static const NSString *strSimpleFactory = @"Simple Factory";
 
 @interface MainViewController () <UITableViewDataSource, UITableViewDelegate>
@@ -84,7 +86,10 @@ static const NSString *strSimpleFactory = @"Simple Factory";
 
 #pragma mark - Private Method
 - (void) JumpToSpecificPageWithIndex: (NSInteger) index {
-    
+    if (index == 0) {
+        SimpleFactoryViewController *simpleFactoryView = [[SimpleFactoryViewController alloc] init];
+        [self.navigationController pushViewController:simpleFactoryView animated:YES];
+    }
 }
 
 
